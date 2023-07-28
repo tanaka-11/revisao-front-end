@@ -6,9 +6,9 @@
 
  ### HTML:
 
- Uma ***linguagem de marcação*** onde fazemos o _esqueleto_ de um website.
+ Uma ***linguagem de marcação*** onde fazemos o **esqueleto** de um website.
 
  ### CSS:
 
-Uma ***linguagem de estilos*** onde fazemos _toda parte visual_ de um website.
+Uma ***linguagem de estilos*** onde fazemos **toda parte visual** de um website.
 
